@@ -1,0 +1,10 @@
+0 Salakot Hat
+1 Tangkuluk Ha...
+2 Talugong Hat
+3 Panglaon Hat
+4 Bikal Hat
+5 Paynawa Hat
+6 Panolong Hat
+7 Vakul Hat
+8 Tangkulu Hat
+9 Tarakuku Hat
